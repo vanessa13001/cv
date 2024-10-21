@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background:url(./images/gojo.jpg) fixed center/cover;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    background-color: rgba(231, 115, 115, 0.353);
+    color:black;
+}
+.vert{
+    color:white;
+}
+.blueviolet{
+    color: blueviolet;
+}
+
+.bas a{
+    background-color:rgb(232, 97, 97);
+    color:black;
+}
+
